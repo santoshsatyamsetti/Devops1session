@@ -4,3 +4,5 @@ read b
 sum=$(expr $a + $b)
 echo "value = $sum"
 echo "workdone"
+print $I
+echo "$I"
