@@ -11,3 +11,4 @@ echo "its a zero value"
 else 
 echo "its a non-zero value"
 fi 
+print $I
