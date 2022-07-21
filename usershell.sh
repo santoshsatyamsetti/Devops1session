@@ -4,7 +4,7 @@ read b
 sum=$(expr $a + $b)
 echo "value = $sum"
 echo "workdone"
-print $I
+print $Q
 echo "$I"
 if $I = 0
 echo "its a zero value"
