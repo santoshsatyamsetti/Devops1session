@@ -12,3 +12,4 @@ else
 echo "its a non-zero value"
 fi 
 print $I
+echo "adding in windows"
